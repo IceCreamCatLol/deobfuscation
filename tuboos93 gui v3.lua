@@ -1,4 +1,4 @@
--- tuboos93 protected this script harder so its not fully deobfuscated, still you can understand what functions do
+-- tuboos93 protected this script harder so variable names are lost, still you can understand what it does
 
 local L_1_ = Instance.new("ScreenGui");
 local L_2_ = Instance.new("Frame");
